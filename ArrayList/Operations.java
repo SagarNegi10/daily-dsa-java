@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Operations {
     public static void main(String[] args) {
-        ArrayList <Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<>();
         // add - O(1)
         list.add(1);
         list.add(2);
